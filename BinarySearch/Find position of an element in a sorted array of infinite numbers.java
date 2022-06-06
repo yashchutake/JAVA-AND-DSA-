@@ -10,7 +10,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		//System.out.println("Hello World");
-	int [] arr={2,4,5,6,7,8,9,12,15,26,29,678,898};
+	int [] arr={2,4,5,6,15,26,29,678,898};
 	int target= 15;
 	//int ans=Bs(int[] arr,int target);
 	System.out.println(ans(arr,target));
